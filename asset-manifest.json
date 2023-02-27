@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6906baf1.css",
-    "main.js": "/static/js/main.a77292a5.js",
-    "static/js/787.684eaefb.chunk.js": "/static/js/787.684eaefb.chunk.js",
-    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
-    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "index.html": "/index.html",
-    "main.6906baf1.css.map": "/static/css/main.6906baf1.css.map",
-    "main.a77292a5.js.map": "/static/js/main.a77292a5.js.map",
-    "787.684eaefb.chunk.js.map": "/static/js/787.684eaefb.chunk.js.map"
+    "main.css": "/Collector/static/css/main.919b3a87.css",
+    "main.js": "/Collector/static/js/main.d8eefacc.js",
+    "static/js/787.684eaefb.chunk.js": "/Collector/static/js/787.684eaefb.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Collector/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Collector/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Collector/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Collector/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Collector/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/Collector/index.html",
+    "main.919b3a87.css.map": "/Collector/static/css/main.919b3a87.css.map",
+    "main.d8eefacc.js.map": "/Collector/static/js/main.d8eefacc.js.map",
+    "787.684eaefb.chunk.js.map": "/Collector/static/js/787.684eaefb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6906baf1.css",
-    "static/js/main.a77292a5.js"
+    "static/css/main.919b3a87.css",
+    "static/js/main.d8eefacc.js"
   ]
 }
